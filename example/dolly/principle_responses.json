@@ -1,0 +1,122 @@
+[
+    {
+        "instruction": "Why mobile is bad for human",
+        "output": "Mobile devices can have negative effects on humans if not used responsibly. Potential issues include increased sedentary behavior, decreased face-to-face interaction, and sleep disruptions. Overuse can also impact mental health, causing stress, anxiety, and addiction. Balanced use is essential, integrating healthy habits and setting boundaries. Developing digital literacy is crucial for safe mobile usage, including recognizing and addressing potential risks such as cyberbullying, online harassment, and privacy concerns. By fostering responsible habits, we can mitigate negative impacts and enjoy the benefits of mobile technology.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some unique curtain tie backs that you can make yourself?",
+        "output": "Create eco-friendly curtain tie-backs using vintage belts, natural fiber ropes, or patterned scarves. For belts, thread one end through a curtain ring, then loop around a curtain rod and secure with the buckle. For rope, knot the ends after looping around the rod. Scarves can be folded in half, then tied around the rod with the ends hanging down. Personalize your tie-backs by adding fabric paint, beads, or monograms. Match colors with room accents or incorporate family heirlooms. Ensure safety by wearing goggles, gloves, and working in a designated area. With DIY tie-backs, reduce waste, save energy, and shrink your carbon footprint by upcycling materials, using reusable tools, and minimizing packaging.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me the top 5 golf equipment company names.",
+        "output": "1. Callaway Golf: Established in 1982, Callaway offers premium equipment known for advanced technology and has sponsored numerous major champions.\n2. TaylorMade Golf: Founded in 1979, TaylorMade provides high-quality, innovative golf equipment and sponsors top-ranked professional golfers.\n3. Titleist (Acushnet Company): In business since 1932, Titleist is renowned for its premium golf balls and equipment, catering to a wide range of budgets.\n4. Ping: Established in 1959, Ping offers high-quality golf equipment at various price points, sponsoring numerous professional golfers.\n5. Wilson Golf: A subsidiary of Amer Sports, Wilson Golf has been in operation since 1914 and provides reliable, affordable golf equipment for golfers worldwide.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me a list of some characteristics of a good coffee shop?",
+        "output": "1. High-quality coffee and ingredients.\n2. Knowledgeable and passionate baristas.\n3. Comfortable and welcoming atmosphere.\n4. Attention to cleanliness and hygiene.\n5. Variety of coffee drinks and food options.\n6. Sustainable and ethical sourcing practices.\n7. Accessible location and hours of operation.\n8. Personalized customer service and community engagement.\n9. Consistent and reliable service.\n10. Use of innovative and advanced coffee brewing techniques.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "write a scene between two actors discussing movie Inception",
+        "output": "Actor A: Inception's ambiguity of reality is fascinating. The rotating sets to depict dreams within dreams created such a disorienting effect.\n\nActor B: Absolutely! I found the color grading really helped differentiate layers of dreams. The deeper levels were more desaturated, giving a colder, dream-like feel.\n\nActor A: Yes, and don't forget the slow-motion sequences, they added so much emotional emphasis. I still can't get over that ending. How did you interpret it?\n\nActor B: I think Cobb is still dreaming, but it's open to interpretation. The spinning top is such a powerful symbol of his internal struggle.\n\nActor A: True. And the power of suggestion was another strong theme. Remember when Cobb planted the idea of a safe in Fischer's mind? Brilliant.\n\nActor B: Definitely. It makes me reflect on how our own consciousness can be influenced by subtle cues. This film has really messed with my perception of reality!\n\nActor A: Mine too! It's like that time I... (shares personal anecdote)\n\n(They both laugh and continue discussing the film.)",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What is the best tv series in the world",
+        "output": "I personally adore \"The Crown\" for its gripping narrative, complex characters, and exquisite cinematography. It offers a window into British royalty with remarkable historical depth. However, I acknowledge that the \"best\" series can be highly subjective and varies from person to person. I'd encourage everyone to explore diverse genres, cultures, and eras to find their own favorite. Whether it's the socio-political commentary of \"The Wire,\" the emotional complexity of \"Bojack Horseman,\" or the groundbreaking representation in \"Pose,\" there's a world of stories waiting to be discovered.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Think of some family rules to promote a healthy family relationship",
+        "output": "1. Encourage open communication, actively listen, and maintain a non-judgmental atmosphere.\n2. Foster respect, valuing individuality and treating each other kindly.\n3. Distribute household chores fairly to promote shared ownership.\n4. Teach healthy conflict resolution, emphasizing compromise and forgiveness.\n5. Schedule regular family activities and meals to strengthen bonds.\n6. Establish and respect personal boundaries, promoting autonomy.\n7. Adapt family rules as family members grow and develop.\n8. Encourage and celebrate achievements, providing comfort in difficult times.\n9. Promote physical, emotional, and mental well-being through healthy habits.\n10. Foster a love for learning and personal growth in an educational environment.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Write a short paragraph about why you should not have both a pet cat and a pet bird.",
+        "output": "It's not advisable to keep both a pet cat and bird together. Cats are natural predators and may harm or kill the bird due to instinctive hunting behaviors. This can be distressing for both animals and compromise the bird's safety. Additionally, birds need specific environments to thrive, which can be disrupted by a curious cat, potentially causing harm to the bird. Therefore, it's best to avoid housing a cat and bird together.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me five ways in which I can make my homebrew beer more interesting",
+        "output": "1. Experiment with unique ingredients like fruit, spices, or exotic yeast strains to enrich your beer's taste.\n2. Utilize alternative brewing methods, such as adjusting mash temperature or fermentation duration, to create distinct profiles.\n3. Collaborate with fellow homebrewers to exchange ideas, resources, and techniques for innovative brews.\n4. Age your beer to allow flavors to develop and mellow, enhancing its complexity.\n5. Join homebrew competitions for valuable feedback to improve your skills and discover fresh brewing approaches.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some kinds of embroidery stitches for writing letters?",
+        "output": "For legible and aesthetic lettering, consider the backstitch, stem stitch, and satin stitch. The backstitch is simple, creating a continuous line perfect for straight lines and edges. The stem stitch forms a rope-like line, ideal for curved shapes and flourishes. The satin stitch, while more advanced, adds elegance and depth to letterforms. These stitches work well on various fabrics and with different threads. Remember, practice on scrap fabric first to ensure proficiency before working on your final project.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What is a good way to get around without a car?",
+        "output": "To get around without a car, prioritize walking, cycling, public transit, or ride-sharing based on distance, physical ability, cost, and schedule. For safety, opt for well-lit, direct routes and follow traffic signals. Use safety gear and stay alert. To optimize convenience, analyze time schedules, frequency of services, and integration of transportation systems in your area. Consider environmental impact by comparing carbon footprints, favoring low-emission options. Engage with your community by attending local meetings, joining transportation advocacy groups, and providing feedback to local officials to promote better transportation infrastructure.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me some ideas to manage my manager.",
+        "output": "1. Maintain open communication with your manager, expressing your thoughts and ideas respectfully.\n2. Align your work with their expectations and goals, seeking clarification when necessary.\n3. Regularly request feedback and be receptive to constructive criticism.\n4. Address issues promptly and professionally, fostering a trusting relationship.\n5. Demonstrate your value through consistent high performance and contributions.\n6. Continuously improve your skills and knowledge to better support your manager and team.\n7. Adapt to your manager's leadership style, showing flexibility and initiative.\n8. Take ownership of your responsibilities, showing a positive attitude and proactive approach, especially in challenging situations.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me a bulleted list of the 5 highest mountains in the world and their respective heights in meters",
+        "output": "- Mount Everest (8,848 meters)\n- K2 (8,611 meters)\n- Kangchenjunga (8,586 meters)\n- Lhotse (8,516 meters)\n- Makalu (8,485 meters)",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Write a short story about a person who discovers a hidden room in their house. The story should include a plot twist and a clear resolution at the end.",
+        "output": "Sarah, a curious 12-year-old, stumbled upon a hidden door in her family's ancestral home. Behind it, she found a dimly lit room filled with dusty antique furniture and stacks of old books. As she sifted through the room's contents, she discovered a journal belonging to her great-great-grandfather, a renowned inventor.\n\n   Flicking through the pages, she found detailed plans for a time-travel device. Intrigued, Sarah tinkered with the gadgets and, to her disbelief, activated the machine. Suddenly, she was whisked away to a bustling town in the 1900s.\n\n   After navigating the era, she realized the room was a portal, allowing her great-great-grandfather to travel through time. With newfound respect for her heritage, Sarah returned home, eager to continue the legacy of innovation in her family. She sealed the room, keeping its secret safe while anticipating her next adventure.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "List 6 different types of rain in Seattle",
+        "output": "Seattle's rain can be categorized into six types: drizzle, shower, storm, mist, steady rain, and showers with sunbreaks. Drizzle refers to light, consistent rain lasting for hours or days, while shower describes brief, intense rainfall peaks punctuating Seattle's weather. Storms involve strong winds, thunder, and lightning, particularly during winter. Mist is a common, low-visibility occurrence during transitional seasons, characterized by tiny water droplets in the air. Steady rain entails a prolonged and uniform rainfall pattern, while showers with sunbreaks alternate between rain and sunshine in short intervals.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "I started a new company named Greystone Inc. What do we do?",
+        "output": "Greystone Inc. specializes in constructing sustainable, intelligent building solutions, enhancing workspaces for the future. Our tagline, \"Innovating Spaces, Empowering Tomorrow,\" underlines our commitment to fostering advanced, eco-friendly environments. We've secured the domain greystoneinc.com and social media handles, ensuring strong brand recognition. Our name, Greystone, evokes stability and wisdom, while 'Inc.' highlights our professionalism and growth. We've conducted thorough trademark searches, verifying our uniqueness in federal, state, and international databases. Our mission: \"Designing, building, and maintaining green, tech-driven spaces that elevate businesses and communities.\"",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Plan for a three day road trip for May long weekend from Westfield, New Jersey",
+        "output": "1. Plan a route to a scenic destination like the Poconos or Finger Lakes, allowing for stops at points of interest such as historic sites or natural parks.\n2. Have your vehicle serviced before departure, and pack essential supplies, including a spare tire, jumper cables, and a first-aid kit.\n3. Book accommodations in advance for the two overnight stops, ideally at motels or inns with good reviews.\n4. Budget for meals at local eateries and snacks from roadside markets; consider packing a cooler with beverages and easy-to-eat snacks.\n5. Check for travel advisories and pack clothing suitable for potential weather changes, including rain gear and warmer layers.\n6. Stay open to modifying the itinerary as needed, ensuring safety and enjoyment remain top priorities.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are 5 potential uses for an empty La Croix can?",
+        "output": "1. Creative art project: Use as a pencil holder or decorative item.\n2. Plant pot: Clean, drill holes for drainage, and use for succulents or herbs.\n3. Travel mug: Add a handle and lid for hot or cold beverages.\n4. Desk organizer: Store office supplies like pens, pencils, or paper clips.\n5. Food storage: Clean, label with contents and date, and use for leftovers or ingredients.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "write a short essay on California wild fire",
+        "output": "California wildfires, exacerbated by climate change, human activity, and natural factors, have caused extensive destruction. A warming climate, with longer fire seasons and increased drought, has contributed to rising wildfire frequency and severity. Human actions, such as negligent disposal of cigarettes and poorly maintained power lines, ignite many blazes.\n\nThe effects of wildfires are devastating, with over 4M acres burned in California since 2017, resulting in 147 fatalities and billions in property damage. Emergency services and first responders risk their lives to protect communities, exhibiting unwavering dedication.\n\nTo reduce wildfire risk, implement fire-resistant landscaping, strengthen building codes, and increase community education. Utilize fire-resistant plants, create defensible spaces, and employ flame-retardant materials in construction. Promote public awareness of fire safety measures, ensuring readiness during wildfire season.\n\nSupport relief efforts by donating to trusted organizations, volunteering time, and advocating for policy changes. Encourage investments in fire prevention, improved infrastructure, and responsible land management to mitigate the impact of future wildfires.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some different things you should bring with you on a day hiking trip?",
+        "output": "For a day hiking trip, pack essentials such as water, food, a map, a first-aid kit, a flashlight, and a whistle. Adjust the amount of gear based on hike length and difficulty. Protect against elements with sunscreen, sunglasses, a hat, and suitable clothing. Carry a charged mobile phone, navigation tools like a compass or GPS device, and learn about local wildlife. Inform someone of your hiking plans and estimated return time. Follow \"Leave No Trace\" principles. Remember, preparation is key to a safe and enjoyable hike.",
+        "generator": "mixtral-8x7b-principle_response",
+        "dataset": "dolly"
+    }
+]

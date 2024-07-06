@@ -1,6 +1,6 @@
 notebooks/
 .idea
-example/
+#example/
 .DS_Store
 .env
 src/**/*.json
