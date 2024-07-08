@@ -1,0 +1,122 @@
+[
+    {
+        "instruction": "Why mobile is bad for human",
+        "output": "We are always engaged one phone which is not good.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some unique curtain tie backs that you can make yourself?",
+        "output": "There are many items you can use to make a curtain tie back. Some ideas for this include a chain, a circle and pin, jute rope, wooden beaded rope, a necklack or bracelet, a door knob, a length of a leather belt, macrame rope, or a string of artificial flowers.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me the top 5 golf equipment company names.",
+        "output": "Titleist, Taylormade, Callaway, Ping, Cobra",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me a list of some characteristics of a good coffee shop?",
+        "output": "Some characteristics of good coffee shops include:\n- Very good coffee, either freshly roasted locally or acquired from a quality roaster\n- High end coffee grinders, brewing machines, and a high quality espresso machine and well-trained baristas\n- Different coffee roast options (i.e. medium roast, dark roast) and brewing methods (i.e. drip coffee and pour-over) available\n- A variety of cafe fare, such as pastries and croissants, available for purchase to accompany coffee\n- Ample seating, with power outlets available by most seats.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "write a scene between two actors discussing movie Inception",
+        "output": "Actress 1: \"Oh my god, have you seen Inception?\"\n\nActor 2: \"Yes! That movie blew my mind. What did you think of it?\"\n\nActress 1: \"Honestly, I was so confused for most of it. But it was so interesting, I couldn't look away. I had to know what was going on.\"\n\nActor 2: \"That's exactly how I felt. It's one of those movies that you have to pay attention to every detail, or you'll get lost.\"\n\nActress 1: \"Absolutely. And the way they played with time and reality was so cool. I don't think I've ever seen a movie like that before.\"\n\nActor 2: \"Yeah, the concept of entering someone's dreams to implant an idea was mind-boggling. And the way they executed it was so well done.\"\n\nActress 1: \"It was. And the cast was amazing too. Leonardo DiCaprio was incredible as usual, and I loved seeing Ellen Page in a different type of role.\"\n\nActor 2: \"Definitely. And the action scenes were so intense. The zero-gravity hallway fight was insane.\"\n\nActress 1: \"Oh my god, yes. I was on the edge of my seat for that one. And the ending...I still can't decide what it means.\"\n\nActor 2: \"I know, right? It's one of those movies that leaves you with so many questions. But that's part of what makes it so great.\"\n\nActress 1: \"Exactly. I love when movies challenge me to think and leave me wanting more. Inception definitely did that.\"\n\nActor 2: \"Agreed. It's definitely one of my all-time favorites. I could watch it a hundred times and still discover something new.\"\n\nActress 1: \"Same here. It's just one of those movies that sticks with you long after it's over.\"",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What is the best tv series in the world",
+        "output": "Dexter- The Dexter is so exciting to watch that it should be the best TV series in the world",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Think of some family rules to promote a healthy family relationship",
+        "output": "Use Kind words\nBe grateful\nThink of others before yourself\nWork hard\nBe Honest\nBe thankful\nKeep your promises\nChoose to be happy\nAlways say 'I Love You'\nBe kind\nEncourage each other",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Write a short paragraph about why you should not have both a pet cat and a pet bird.",
+        "output": "Having both a pet bird and a pet cat is not a good idea because cats will try to hunt birds, which are naturally the prey of cats. This hunting instinct is completely normal, and it isn't fair to the cat to try to train it not to attack birds, as it is simply in its nature to do so. However, letting a cat hunt your pet bird is similarly not humane, as it will be very stressful to the bird and could lead to the bird being injured. Larger birds are also not a good idea, as the bird could cause injury to the cat if the cat tries to attack it. Overall, it just isn't a good idea to have both cats and birds, since they tend not to coexist well, and pet owners should just pick one species to have.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me five ways in which I can make my homebrew beer more interesting",
+        "output": "There are infinite ways to create interesting flavours, that are either personal favourites or attempt to replicate classic beers and beer styles. There are a number of factors that make up a beers flavour profile and part of the enjoyment brewing your own beer at home, is that you can play around with each of these to change the flavour and character of your homebrew beer. Here are five ways in which you can change your own homebrew recipe to add interesting flavours or alternatively you can alter an existing homebrew recipe shared by somebody else or a brewery.\n\n1. Use different hops\nThere is a huge variety of hops available to homebrewers and each of these can introduce its own particular flavour and aroma to your beer, ranging from pineapple and apricots, to pine trees and woods, to grapefruit pith and lemon zest. By using a different hop in your recipe either from the same family or from an entirely different family of hops, you can easily add interesting and often radical changes to the flavour profile of your beer. However, depending on when the hops are added in the brewing process, you can also increase/decrease the levels of bitterness of your beer, due to different hop varieties having different levels of alpha acids.\n\n2. Use a different yeast\nBesides fermenting the beer, yeast leave behind lots of interesting flavours and can give your homebrew it's own subtle character. For example, English yeast strains can add malty and sweet flavours, California yeast tends to create a clean and crisp beer, whilst saison yeast adds bright and fruity flavours to your beer.\n\n3. Use different grains\nChanging the amount of base malts can increase or decrease the alcohol in your finished beer. Trying swapping one base malt for another, like American pale malts for a British variety, and look for the subtle differences between them. You can also play around with the specialty grains, like using a slightly darker roast.\n\n4. Add fruit, spices or herbs\nFruits, spices, herbs, and other ingredients are a great way to add an entirely personal character to your homebrew. Anything from fresh strawberries and basil to vanilla beans and cardamom can really complement the other malty, hoppy flavours in a beer. \n\n5. Alter your water profile\nDifferent beer styles will typically be best achieved with a suitable water profile, with different levels of minerals to achieve the desired flavour profile. By adjusting the amounts of specific minerals found in your brewing water, beer can be made to taste fuller bodied, sweeter, drier, more bitter, or even sour.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some kinds of embroidery stitches for writing letters?",
+        "output": "Some embroidery stitches that can be used to embroider letters are the back stitch, the split stitch, the stem stitch, the chain stitch, the couching stitch, and the satin stitch.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What is a good way to get around without a car?",
+        "output": "If you live in a city you can access public transport such as buses and trains. You can also walk, use a bicycle, or electric scooter to get around.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me some ideas to manage my manager.",
+        "output": "1. Be honest\n2. Communicate\n3. Understand goals\n4. Stay calm\n5. Solve problems\n6. Be positive\n7. Share your knowledge\n8. Be caring\n9. Practice positive reinforcement\n10. Be a strong performer",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me a bulleted list of the 5 highest mountains in the world and their respective heights in meters",
+        "output": "* Mount Everest. Height: 8,849 meters\n* K2. Height: 8,611 meters\n* Kangchenjunga. Height: 8,586 meters\n* Lhotse. Height: 8,516 meters\n* Makalu. Height: 8,485 meters",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Write a short story about a person who discovers a hidden room in their house. The story should include a plot twist and a clear resolution at the end.",
+        "output": "It was going to be a long day.  With her brother-in-law out of town, Lisa had agreed to watch her niece Stella for the afternoon and the little girl was known to be a bit of a handful. Her plan had been to spend the afternoon at the park to let Stella run and climb, to wear her out a bit.  Unfortunately, this outing was foiled by the constant downpour of rain so Lisa resigned herself to a day inside with the tiny tyrant. Stella arrived early and excited to play.  Lisa decided to begin with a game of hide and seek, after all this could take up a good part of the morning without too much trouble.  Stella ran off to hide and Lisa sat quietly drinking coffee while calling out to the little girl, pretending to seek. Eventually she set off to find the little girl but soon she realized that something was wrong.  No matter where she looked, Stella was nowhere to be found. The house wasn't that large, making her disappearance even more perplexing.  Lisa had only recently moved into the home that she bought from her great aunt shortly before her death and she hasn't even moved out all of the existing furniture. Maybe Stella had gotten stuck somewhere behind the large wardrobe in the bedroom or she had climbed up into a cupboard in the laundry room.  Panic was starting to settle in as she moved the wardrobe further from the wall, where only a small child could have hidden before.  Suddenly, saw a small crack in the wall, and then realized it was a small door that she never knew was there.  The door was slightly ajar and she eventually moved the wardrobe enough to open the door and climb inside. What was this place?  The entrance opened up to reveal a small room that Lisa never knew existed!  It was full of treasure, gold bars and jewels.  Stella sat in the middle of the room quietly playing with the treasure, unaware of the immense value she was surrounded by.  Lisa had known her aunt was a secretive woman but this was an incredible find and would change her life forever.  Stella's visit was the good luck charm she needed to unlock this bounty and she would be forever grateful to the little girl!  Time to call her brother-in-law to thank him for letting Stella visit.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "List 6 different types of rain in Seattle",
+        "output": "1. Mist\n2. Drizzle\n3. Sleet\n4. Downpour\n5. Freezing Rain\n6. Sun Shower",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "I started a new company named Greystone Inc. What do we do?",
+        "output": "- Investment banking for weird guys only\n- Aerospace consulting\n- Pasta and pasta accessory global logistics\n- Political lobbying for the mining industry",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Plan for a three day road trip for May long weekend from Westfield, New Jersey",
+        "output": "May 26: Drive to Montreal from Westfield, NJ. Time taken  6 hrs. Stay there overnight\nMay 27:  have a quick breakfast..checkout and drive to Mount Tremblant. Time: 90 minutes\nMay 27: Hike Grand Brule ( red path) on the way up and green path on the way down\nMay 27: Stroll around the Tremblant village\nMay 28: Drive to Quebec City. Time taken: 4 hrs\nMay 28: Explore the city, aquarium and go for wildlife watching\nMay 29: Drive to Montreal. Spend time exploring the city\nMay 30: Drive back to Westfield, New Jersey",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are 5 potential uses for an empty La Croix can?",
+        "output": "1. Make your bike sound like it has an engine by wrapping the can around the back tire.\n2. A percussion instrument to play along with friends in a jam session.  You could just crinkle it, hit it with a pen, or fill it with sand or debris and shake it.  \n3. A baking tool.  You can used the bottom of the can to stamp out perfectly circle, uniform cookies from a rolled-out sheet of cookie dough.\n4. A field razor.  Tear the can carefully to create an effective cutting device for emergency use.\n5. A make shift ball to throw around with friends at the park. An empty can could be a fun projectile to use in a friendly game of 3 Flies Up.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "write a short essay on California wild fire",
+        "output": "California is known for its hot, dry summers, which increase the risk of wildfires. Every year, the state experiences dozens of fires, which can be devastating to both the environment and people's homes and businesses.\n\nIn recent years, California has seen some of the worst wildfires in its history, with tens of thousands of acres of land destroyed and hundreds of homes lost. These fires are often started by a combination of high temperatures, dry conditions, and strong winds, which can quickly spread flames and make them difficult to control.\n\nThe effects of these fires are felt not just by those directly impacted, but by everyone in the state. Smoke and ash from the fires can cause respiratory problems and other health issues, and the destruction of habitats can harm wildlife populations and disrupt entire ecosystems.\n\nDespite the challenges, California has made significant progress in fighting wildfires in recent years. The state has invested in new technologies and equipment to help firefighters respond more quickly and effectively to fires, and has increased efforts to prevent fires from starting in the first place.\n\nWhile wildfires will likely always be a risk in California, the state's proactive approach to managing them gives hope that we can continue to protect people, wildlife, and the environment from their devastating effects.",
+        "generator": "oracle",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some different things you should bring with you on a day hiking trip?",
+        "output": "You should bring water, a snack, sunscreen, hiking boots, a first aid kit and a cellphone",
+        "generator": "oracle",
+        "dataset": "dolly"
+    }
+]

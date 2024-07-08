@@ -1,0 +1,122 @@
+[
+    {
+        "instruction": "Why mobile is bad for human",
+        "output": "1. Mobile devices can be detrimental to face-to-face communication and social skills.\n2. Overuse can lead to physical health issues, such as eye strain, poor posture, and repetitive strain injuries.\n3. Excessive screen time can negatively impact mental health, causing anxiety, stress, and sleep disturbances.\n4. Mobile addiction can result in reduced productivity and focus, as well as difficulty in prioritizing tasks.\n5. Constantly being connected can create unrealistic expectations of immediate responses and increase stress levels.\n6. Inappropriate content and cyberbullying are potential risks, especially for children and teens.\n7. Dependence on mobile devices for navigation may weaken spatial awareness and orientation skills.\n8. Over-reliance on mobile devices for information can hinder critical thinking and problem-solving abilities.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some unique curtain tie backs that you can make yourself?",
+        "output": "1. Rope Tie Backs: Create a rustic look by wrapping rope around a curtain rod and securing it with a knot.\n2. Fabric Strip Tie Backs: Cut strips of fabric, fold them in half, and sew them together to create a loop.\n3. Vine Tie Backs: Use a piece of grapevine or other flexible vine as a natural and unique tie back.\n4. Photo Frame Tie Backs: Remove the backing and glass from an old photo frame, then attach it to the wall as a decorative curtain holder.\n5. Book Tie Backs: Use a hardcover book as a statement piece by tying the curtains to it with a ribbon or twine.\n6. Branch Tie Backs: Trim a branch from your garden, paint it, and use it as a curtain holder.\n7. DIY Stone Tie Backs: Create stone-like tie backs using concrete mix and molds.\n8. Leather Tie Backs: Cut leather strips, create holes for the rod, and secure with rivets or lacing.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me the top 5 golf equipment company names.",
+        "output": "1. Callaway Golf Company\n2. TaylorMade Golf Company\n3. Acushnet Company (Titleist)\n4. PING Golf\n5. Mizuno Corporation",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me a list of some characteristics of a good coffee shop?",
+        "output": "1. Quality coffee and tea products.\n2. Comfortable and inviting atmosphere.\n3. Knowledgeable and friendly staff.\n4. Clean and well-maintained facilities.\n5. Unique and diverse menu options.\n6. Sustainable and ethical sourcing practices.\n7. Wi-Fi and power outlets for customers.\n8. Convenient location and hours of operation.\n9. Community engagement and events.\n10. Consistent customer service and product quality.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "write a scene between two actors discussing movie Inception",
+        "output": "Actor 1: \"Did you see Inception? The plot was so complex.\"\n\nActor 2: \"Yes, I did. It's about dream manipulation, right?\"\n\nActor 1: \"Exactly. Cobb, the main character, enters people's dreams to extract information. But in this film, they're trying to implant an idea.\"\n\nActor 2: \"That's right. The 'inception'. Quite mind-boggling.\"\n\nActor 1: \"And the ending, with the top spinning... Do you think he's still dreaming?\"\n\nActor 2: \"I've heard different theories. I think it's left to our interpretation.\"\n\nActor 1: \"True. It's a masterpiece that keeps you thinking.\" \n\nActor 2: \"Definitely. Nolan really pushed the boundaries of storytelling.\"",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What is the best tv series in the world",
+        "output": "Determining the \"best\" TV series in the world can be subjective as it depends on personal preferences. However, some critically acclaimed and popular series include \"The Sopranos,\" \"Breaking Bad,\" \"Game of Thrones,\" and \"The Crown.\" These shows have been praised for their storytelling, character development, and production values.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Think of some family rules to promote a healthy family relationship",
+        "output": "1. Regular meals together.\n2. Open communication and active listening.\n3. Show respect and kindness to each other.\n4. Help with chores and chore sharing.\n5. Spend quality time together.\n6. Encourage individuality and personal growth.\n7. Practice honesty and trust.\n8. Establish and follow through with consequences.\n9. Display affection and express love regularly.\n10. Support each other's goals and dreams.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Write a short paragraph about why you should not have both a pet cat and a pet bird.",
+        "output": "Cats are natural predators and birds are potential prey, which can lead to stress and harm for the bird. The bird's safety could be at risk, even if the cat is well-fed. Additionally, some birds are sensitive to changes in their environment and the presence of a cat can cause excessive stress, affecting their health and well-being. It's generally best to avoid housing these two animals together.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me five ways in which I can make my homebrew beer more interesting",
+        "output": "1. Experiment with unique ingredients: Incorporate unusual ingredients like spices, fruits, or different types of grains to add distinct flavors.\n2. Try different yeast strains: Various yeast strains can significantly affect the flavor profile, aroma, and overall character of your beer.\n3. Aging and conditioning: Age your beer in different types of barrels (e.g., wine, whiskey) or condition it on various fruits or flavors to enhance complexity.\n4. Adjust alcohol content: Brew beers with higher or lower alcohol content to create diverse styles and intensities.\n5. Dry-hopping and wet-hopping: Adding hops during the end of the boil or directly to the fermenter can create unique hop aromas and flavors.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some kinds of embroidery stitches for writing letters?",
+        "output": "1. Backstitch: This is a simple and versatile stitch, great for outlining letters. It creates a continuous line, making it ideal for small or detailed work.\n\n2. Stem Stitch: Often used for stems of flowers, it can also be used to write letters. It forms a rope-like line, adding a unique texture to your embroidery.\n\n3. Running Stitch: This is a basic stitch, often used for outlines. It's quick and easy to do, making it a good choice for large letters or words.\n\n4. Satin Stitch: This stitch is used to fill in larger areas, making it suitable for creating solid-colored letters.\n\n5. Chain Stitch: This stitch creates a linked chain, which can be used to form the shape of letters. It's particularly effective for cursive or script-style text.\n\n6. Lettering Stitch: This is a specific stitch designed for embroidering letters. It creates a smooth, consistent line, ideal for both print and cursive styles.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What is a good way to get around without a car?",
+        "output": "1. Utilize public transportation like buses, trains, and subways.\n2. Consider biking or walking for short distances.\n3. Use ride-sharing or taxis for occasional needs.\n4. Carpool with coworkers, friends, or family.\n5. Explore car rental options for occasional use.\n6. Try electric scooters or bikes for quick, short trips.\n7. Use ride-sharing services like Uber or Lyft.\n8. Consider moving closer to work or amenities.\n9. Use micro-mobility options like hoverboards or skateboards.\n10. Join a car-sharing program for occasional vehicle access.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me some ideas to manage my manager.",
+        "output": "1. Clear Communication: Maintain open and honest dialogue about your tasks, projects, and expectations.\n2. Set Boundaries: Define your work-life balance and ensure your manager respects it.\n3. Seek Feedback: Regularly ask for feedback to understand their expectations and improve your performance.\n4. Understand Their Goals: Know your manager's objectives to align your work with their vision.\n5. Be Proactive: Anticipate needs and take initiative, showing your manager you're reliable and capable.\n6. Document Achievements: Keep a record of your accomplishments to remind your manager of your value.\n7. Build a Relationship: Get to know them personally to foster mutual respect and understanding.\n8. Stay Professional: Maintain a high level of professionalism at all times.\n9. Manage Up: Take responsibility for managing your manager's expectations and perception of your work.\n10. Seek Solutions: If issues arise, propose solutions instead of just presenting problems.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Give me a bulleted list of the 5 highest mountains in the world and their respective heights in meters",
+        "output": "1. Mount Everest, 8848 meters\n2. K2, 8611 meters\n3. Kangchenjunga, 8586 meters\n4. Lhotse, 8516 meters\n5. Makalu, 8485 meters",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Write a short story about a person who discovers a hidden room in their house. The story should include a plot twist and a clear resolution at the end.",
+        "output": "Sarah, a curious 12-year-old, discovered a hidden door in the old Victorian house her family had just moved into. Behind the door, she found a room filled with antique radios. One radio caught her eye, an intricate golden device marked \"Property of the War Department, 1943.\"\n\nDays turned into weeks as Sarah restored the radio. One day, it suddenly flickered to life, emitting a strange melody. Intrigued, she adjusted the dials and heard a voice\u2014her great-grandfather's voice\u2014telling a tale of wartime secrets. He'd hidden a treasure in the house!\n\nExploring the house, she found a loose floorboard under the attic stairs. Inside, she found a trove of war medals, love letters, and photographs. Her family gathered around as she shared her find, bringing them closer than ever before.\n\nThe hidden room and the radio weren't just relics of the past; they were a bridge connecting generations, revealing untold stories and strengthening family bonds.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "List 6 different types of rain in Seattle",
+        "output": "1. Drizzle: Fine, persistent rain with droplets smaller than 0.5 mm.\n2. Light Rain: Rainfall with a rate between 0.25 to 1.5 mm per hour.\n3. Moderate Rain: Rainfall with a rate between 1.5 to 7.5 mm per hour.\n4. Heavy Rain: Rainfall with a rate over 7.5 mm per hour.\n5. Showers: Short periods of heavy rain separated by bright intervals.\n6. Storms: Violent, windy weather with intense rainfall and sometimes thunder and lightning.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "I started a new company named Greystone Inc. What do we do?",
+        "output": "Greystone Inc. is a versatile business, able to adapt to various industries based on your preference. For instance, it could be a tech company developing innovative software solutions, a sustainable manufacturing firm creating eco-friendly products, or a consulting agency providing expert business strategies. The choice is yours.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "Plan for a three day road trip for May long weekend from Westfield, New Jersey",
+        "output": "1. Day 1: Depart from Westfield, NJ early morning. Drive to Philadelphia, PA (approx. 1.5 hours). Explore historic sites, such as Independence Hall and the Liberty Bell. In the afternoon, continue to Lancaster, PA (1.5 hours) for an Amish countryside tour. Overnight in Lancaster.\n\n2. Day 2: After breakfast, head to Hershey, PA (1 hour) for a Hershey's Chocolate World tour. In the afternoon, drive to Baltimore, MD (1.5 hours) and visit the Inner Harbor and the National Aquarium. Overnight in Baltimore.\n\n3. Day 3: Depart from Baltimore early morning and drive to Washington D.C. (1 hour). Spend the day visiting the Smithsonian museums and monuments. In the late afternoon, begin the journey back to Westfield, NJ (3.5 hours). Estimated arrival time: 9 PM. Make sure to account for any potential traffic or delays.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are 5 potential uses for an empty La Croix can?",
+        "output": "1. As a pencil holder: Clean and decorate the can, then use it to store writing utensils.\n2. Plant protector: Place a small plant inside to protect it from animals.\n3. DIY herb garden: Punch holes in the can's lid, add soil and herb seeds.\n4. Desk organizer: Store small office supplies like paper clips or rubber bands.\n5. Beach toy container: Fill with sand and small toys for beach trips.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "write a short essay on California wild fire",
+        "output": "California wildfires are a significant environmental and public safety issue. Fueled by drought, high temperatures, and wind, these fires have caused extensive property damage and loss of life. They pose a threat to both urban and rural areas, endangering human settlements and natural habitats. Climate change is exacerbating the problem, making fires more frequent and intense. Prevention measures include vegetation management, community education, and infrastructure hardening. Rapid response and effective evacuation plans are crucial in minimizing damage and loss. Rebuilding efforts should prioritize fire-resistant materials and designs. Addressing climate change is a key long-term solution. Collaboration between government agencies, communities, and scientists is essential in managing and mitigating the impact of California wildfires.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    },
+    {
+        "instruction": "What are some different things you should bring with you on a day hiking trip?",
+        "output": "1. Navigation tools (map, compass, or GPS device)\n2. Weather-appropriate clothing and extra layers\n3. Plenty of water and high-energy snacks\n4. A first-aid kit\n5. Multi-tool or knife\n6. Sun protection (sunscreen, sunglasses, hat)\n7. Insect repellent\n8. Headlamp or flashlight with extra batteries\n9. Emergency shelter or blanket\n10. Fire-starting tools (matches, lighter, or fire starters)\n11. Whistle for attracting attention\n12. Cell phone or communication device\n13. Personal items (identification, medication, etc.)\n14. Trash bag to carry out waste\n15. Optional: camera, binoculars, or a field guide for observing local flora and fauna.",
+        "generator": "mixtral-8x7b-baseline_response_w/o_principles",
+        "dataset": "dolly"
+    }
+]
